@@ -3,7 +3,7 @@
 Efficient large file splitting with Python.
 
 This python utility script provides a way to split a large file into smaller files
-based on their number of lines. It does not load any files into memory so can be run on very large files.
+based on their number of lines. It does not load files completely into memory so can be run on very large files.
 
 ## Usage
 
